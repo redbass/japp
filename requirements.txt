@@ -1,0 +1,2 @@
+weasyprint==0.42.2
+flask==0.12.2
